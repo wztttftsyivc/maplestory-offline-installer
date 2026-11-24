@@ -32,6 +32,12 @@
 
 ---
 
+## 🎮 About the Game
+
+Join over 260 million players worldwide in MapleStory, the world’s biggest 2D MMORPG adventure! Play now for free.
+
+---
+
 ## ❌ Problem: Games are expensive and require internet
 
 - **High Cost** — Full-price games cost $60–70 at launch
@@ -89,10 +95,13 @@
 
 | **Component** | **Windows** | **macOS** |
 |---------------|-------------|-----------|
-| **OS** | Windows 10/11 (64-bit) | macOS 12 Monterey or later |
-| **RAM** | 8 GB+ | 8 GB+ |
-| **Storage** | 2 GB free | 2 GB free |
-| **Processor** | Intel i5 / AMD Ryzen 5 | Intel or Apple Silicon |
+| **OS** | Min: Windows 10 (64 bit) / Rec: Windows 10 (64 bit) or later | macOS Sequoia 15.0 |
+| **Processor** | Min: Intel® Core™ 2 Duo @ 3.0GHz or AMD Athlon™ 64 X2 @ 3.0G… / Rec: Intel® Core™ i3 @ 4.0GHz or AMD Ryzen™ 3 @ 3.5GHz or hi… | Apple Silicon Mac M1 |
+| **Memory** | Min: 8 GB RAM / Rec: 8 GB RAM or more | 8 GB RAM |
+| **Graphics** | Min: GeForce 9600 GT or ATI Radeon™ HD 5670 / Rec: Nvidia GTX 1050, AMD RX 570 or above | Apple Silicon Mac M1 |
+| **Network** | Min: Broadband Internet Connection / Rec: Fiber Internet Connection | Broadband Internet Connection |
+| **Hard Drive** | Min: 60 GB available hard disk space or more / Rec: 60 GB or more available SSD space | 60 GB available hard disk space or more |
+| **DirectX®** | Min: Version 11.0 / Rec: Version 11.0 or higher | Metal 3 |
 
 ---
 
